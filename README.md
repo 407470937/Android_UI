@@ -325,17 +325,17 @@ public class XMLMenuActivity extends AppCompatActivity {
 
 1、
 
-<image src="<https://github.com/407470937/Photos/blob/master/test03/test0301.PNG>">
+<image src="https://github.com/407470937/Photos/blob/master/test03/test0301.PNG">
 
 2、
 
-<image src="<https://github.com/407470937/Photos/blob/master/test03/test0302t.PNG>">
+<image src="https://github.com/407470937/Photos/blob/master/test03/test0302t.PNG">
 
 3、
 
-<image  src="<https://github.com/407470937/Photos/blob/master/test03/test0303.PNG>">
+<image  src="https://github.com/407470937/Photos/blob/master/test03/test0303.PNG">
 
 4、
 
-<image src="<https://github.com/407470937/Photos/blob/master/test03/test0304.PNG>">
+<image src="https://github.com/407470937/Photos/blob/master/test03/test0304.PNG">
 
